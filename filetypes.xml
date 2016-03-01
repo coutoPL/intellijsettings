@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="Docker file" />
+      <mapping pattern="Dockerfile" type="Docker file" />
+      <mapping pattern="biller-rabbitmq" type="Docker file" />
+    </extensionMap>
+  </component>
+</application>
