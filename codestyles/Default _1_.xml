@@ -1,3 +1,10 @@
 <code_scheme name="Default (1)">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="pl.touk.abroholos.utils.RequestContextConverter.toRequestContext" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
 </code_scheme>
