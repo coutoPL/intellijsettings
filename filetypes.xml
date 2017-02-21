@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
+      <mapping pattern="ReadonlyRESTLicenceHeader" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
