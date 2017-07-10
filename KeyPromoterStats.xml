@@ -3,6 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'⌃D'" value="2" />
+        <entry key="'⌃⇧U'" value="1" />
       </map>
     </option>
   </component>
