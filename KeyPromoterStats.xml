@@ -3,7 +3,9 @@
     <option name="stats">
       <map>
         <entry key="'⌃D'" value="2" />
+        <entry key="'⌃R'" value="3" />
         <entry key="'⌃⇧U'" value="2" />
+        <entry key="'⌘R'" value="3" />
       </map>
     </option>
   </component>
