@@ -12,11 +12,11 @@
         <entry key="'⌘F2'" value="12" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="2" />
         <entry key="'⌘N'" value="1" />
-        <entry key="'⌘R'" value="116" />
+        <entry key="'⌘R'" value="121" />
         <entry key="'⌘⌫'" value="2" />
         <entry key="'⌥F7'" value="1" />
         <entry key="'⌥F8'" value="11" />
-        <entry key="'⌥⌘R'" value="43" />
+        <entry key="'⌥⌘R'" value="60" />
       </map>
     </option>
   </component>
