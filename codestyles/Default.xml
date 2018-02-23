@@ -3,6 +3,11 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="PrepaymentAccountsService.encoders.prepaymentAccountsResponseEncoder" />
+      </array>
+    </option>
     <option name="KEEP_XML_FORMATTING" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">
