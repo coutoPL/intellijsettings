@@ -1,5 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true">
         <library>
@@ -15,6 +19,7 @@
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
@@ -34,15 +39,10 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
-        </library>
-      </artifact>
+      <artifact name="HSQLDB" use="true" version="2.4.0" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
@@ -76,6 +76,7 @@
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
