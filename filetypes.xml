@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq-dockerfile" type="PLAIN_TEXT" />
@@ -15,7 +14,6 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="biller-rabbitmq" type="Docker file" />
     </extensionMap>
