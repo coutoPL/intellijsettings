@@ -4,19 +4,20 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="biller-rabbitmq" type="Docker file" />
       <mapping ext="dockerfile" type="Docker file" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="plugins" type="PLAIN_TEXT" />
-      <mapping pattern="ReadonlyRESTLicenceHeader" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq-dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
+      <mapping pattern="ReadonlyRESTLicenceHeader" type="PLAIN_TEXT" />
       <mapping pattern="zenith_ussd_test" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="tests_to_fix" type="PLAIN_TEXT" />
+      <mapping pattern="plugins" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping ext="ldif" type="PLAIN_TEXT" />
-      <mapping ext="settings" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="settings" type="PLAIN_TEXT" />
       <removed_mapping ext="xml" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
