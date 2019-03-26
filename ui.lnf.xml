@@ -6,5 +6,6 @@
   <component name="UISettings">
     <option name="FONT_SCALE" value="1.0" />
     <option name="MAX_LOOKUP_WIDTH2" value="1016" />
+    <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
