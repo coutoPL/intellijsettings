@@ -1,10 +1,11 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ToStringRenderer">
-      <option name="ENABLED" value="false" />
+      <option name="ON_DEMAND" value="true" />
     </Renderer>
   </component>
   <component name="ThreadsViewSettings">
