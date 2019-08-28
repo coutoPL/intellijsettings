@@ -5,6 +5,7 @@
       <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="rabbitmq-dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
+      <mapping pattern="readonlyrest_with_ldap" type="PLAIN_TEXT" />
       <mapping pattern="tests_to_fix" type="PLAIN_TEXT" />
       <mapping pattern="zenith_ussd_test" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
