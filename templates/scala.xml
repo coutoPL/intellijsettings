@@ -1,0 +1,7 @@
+<templateSet group="scala">
+  <template name="fcc" value="final case class Dupa" description="final case class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
