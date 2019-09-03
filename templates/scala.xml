@@ -4,8 +4,9 @@
     <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="fcc" value="final case class $name$(value: $type$)" description="Template for final case class" toReformat="false" toShortenFQNames="true">
+  <template name="fcc" value="final case class $name$($field$: $type$)" description="Template for final case class" toReformat="false" toShortenFQNames="false">
     <variable name="name" expression="" defaultValue="CaseClass" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="value" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="String" alwaysStopAt="true" />
     <context>
       <option name="SCALA" value="true" />
