@@ -19,4 +19,8 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="nt" value="final case class $name$(value: $type$) extends AnyVal" description="new type" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
