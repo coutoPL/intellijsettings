@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../integration-tests/src/test/eshome/modules/x-pack-sql/sql-action-7.3.0.jar [readonlyrest.integration-tests.test]'" />
+    <option name="defaultScopeName" value="File '.../integration-tests/src/test/eshome/modules/x-pack-sql/sql-action-7.3.0.jar [readonlyrest.integration-tests.test]'" />
+    <option name="SEARCH_SCOPE" value="File '.../integration-tests/src/test/eshome/modules/x-pack-sql/sql-action-7.3.0.jar [readonlyrest.integration-tests.test]'" />
   </component>
 </application>
