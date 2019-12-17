@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
-      <mapping pattern="readonlyrest_with_ldap" type="PLAIN_TEXT" />
-      <mapping pattern="example" type="PLAIN_TEXT" />
-      <mapping pattern="shortcodes" type="PLAIN_TEXT" />
-      <mapping pattern="tests_to_fix" type="PLAIN_TEXT" />
+      <mapping pattern="biller-rabbitmq" type="Docker file" />
+      <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="rabbitmq-dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="ExplicitHeaderExample.wsdl" type="PLAIN_TEXT" />
       <mapping pattern="ReadonlyRESTLicenceHeader" type="PLAIN_TEXT" />
-      <mapping pattern="index_config_available_file_config_not_provided" type="PLAIN_TEXT" />
       <mapping pattern="zenith_ussd_test" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="readonlyrest_with_ldap" type="PLAIN_TEXT" />
+      <mapping pattern="tests_to_fix" type="PLAIN_TEXT" />
       <mapping pattern="plugins" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="shortcodes" type="PLAIN_TEXT" />
+      <mapping pattern="index_config_available_file_config_not_provided" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
       <removed_mapping ext="xml" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="Docker file" />
-      <mapping pattern="biller-rabbitmq" type="Docker file" />
     </extensionMap>
   </component>
 </application>
