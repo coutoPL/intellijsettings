@@ -11,12 +11,12 @@
       <mapping pattern="readonlyrest_with_ldap" type="PLAIN_TEXT" />
       <mapping pattern="tests_to_fix" type="PLAIN_TEXT" />
       <mapping pattern="plugins" type="PLAIN_TEXT" />
-      <mapping pattern="s3cli" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="shortcodes" type="PLAIN_TEXT" />
       <mapping pattern="index_config_available_file_config_not_provided" type="PLAIN_TEXT" />
+      <mapping pattern="s3cli" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
